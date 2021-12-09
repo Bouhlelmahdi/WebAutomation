@@ -1,0 +1,8 @@
+1/ Before you run the test in the project you need to have .Net Core 3.1 (https://dotnet.microsoft.com/download/dotnet/3.1)
+2/ You need to have a Chrome Browser installed on your windows machine with the latest version (96.0.4664.45)
+3/ To run the test you need to extract the zip file then run the batch file named "Run" wait for the solution to build then the browser will launch and perform the scenario and will generate a html report with the test result.
+
+NB: Make sure that all .Net dependencies are installed, if you face any issues try to delete the Obj folder and try again maybe that will solve the issue.
+
+Thank you.
+Mahdi

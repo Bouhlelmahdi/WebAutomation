@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NavAutomation
+namespace TestTechnique
 {
     public class DriverHelper : IDisposable
     {
